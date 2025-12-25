@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "世界には愛しかない",
+  "base_artist": "Keyakizaka46",
+  "createdAt": "2025-12-25T01:02:39.115487Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "世界には愛しかない",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/01_世界には愛しかない_Keyakizaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界には愛しかない",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_01_世界には愛しかない_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "世界には愛しかない",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_02_世界には愛しかない_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "世界には愛しかない",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_03_世界には愛しかない_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "世界には愛しかない",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_04_世界には愛しかない_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "世界には愛しかない",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_05_世界には愛しかない_欅坂46.txt"
+    }
+  ]
+}
